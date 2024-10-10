@@ -1,0 +1,2 @@
+source;share/my_laser_scan_subscriber/environment/ament_prefix_path.sh
+source;share/my_laser_scan_subscriber/environment/path.sh
